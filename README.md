@@ -1,6 +1,6 @@
 # PeakClips
 
-**Created and owned by [Sahil Jadhav](https://github.com/SahilJadhav03)** • [GitHub Repository](https://github.com/SahilJadhav03/peakclips)
+**Created and owned by [Sahil Jadhav](https://github.com/SahilJadhav03)** • [GitHub Repository](https://github.com/SahilJadhav03/Peak_cuts_cliper)
 
 Turn long videos and live streams into captioned vertical clips, ready to post. Free and open source: run it on
 your own computer or server, with your own AI key.
@@ -36,7 +36,7 @@ installs it for you, it should ask you where to put it first ([AGENTS.md](AGENTS
 On Windows:
 
 ```bash
-git clone <this repository> C:\peakclips
+git clone https://github.com/SahilJadhav03/Peak_cuts_cliper.git C:\peakclips
 ```
 
 ```bash
@@ -46,7 +46,7 @@ cd C:\peakclips
 On a Mac or Linux:
 
 ```bash
-git clone <this repository> ~/peakclips
+git clone https://github.com/SahilJadhav03/Peak_cuts_cliper.git ~/peakclips
 ```
 
 ```bash
