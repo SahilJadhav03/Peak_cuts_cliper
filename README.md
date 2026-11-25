@@ -22,6 +22,8 @@ creator's live stream and clip the highlights while the stream is still running.
   (`PEAKCUT_ACCOUNTS=1`) for email or Google sign-in and an admin dashboard.
 - **Your own AI.** Gemini, OpenAI, Grok, Groq, OpenRouter, Claude, a local model through Ollama, or anything that
   speaks the OpenAI chat format. No key at all also works: clips are then picked by loudness.
+  ![Uploading image.png…]()
+
 
 ## Quick start
 
